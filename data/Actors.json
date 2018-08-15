@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"ameri","characterIndex":0,"characterName":"$ameri4","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"ameri","traits":[],"initialLevel":1,"maxLevel":99,"name":"アメリ","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"rena","characterIndex":0,"characterName":"rena","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"rena","traits":[],"initialLevel":1,"maxLevel":99,"name":"レナ","nickname":"","note":"","profile":""}
+]
