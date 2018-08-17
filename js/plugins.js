@@ -54,5 +54,6 @@ var $plugins =
 {"name":"Yami_8DIR","status":false,"description":"プレイヤーの8方向の移動が可能になります。","parameters":{}},
 {"name":"Yami_SkipTitle","status":false,"description":"テストプレイ用にタイトルシーンを飛ばすことができます。","parameters":{}},
 {"name":"Zeriab_ExtraMaps","status":true,"description":"999以上のマップ使用を可能にします。","parameters":{}},
-{"name":"HalfMove","status":true,"description":"半歩移動プラグイン","parameters":{"8方向移動":"true","8方向移動スイッチ":"0","イベントすり抜け":"true","強制中無効":"false","角回避":"true","斜め移動中減速":"false","トリガー拡大":"false","実歩数調整":"false","上半分移動不可地形":"0","上半分移動不可Region":"0","下半分移動不可地形":"0","下半分移動不可Region":"0","右半分移動不可地形":"0","右半分移動不可Region":"0","左半分移動不可地形":"0","左半分移動不可Region":"0","全方向移動不可地形":"0","全方向移動不可Region":"0","イベント複数起動防止":"false","イベント位置重複OK":"false"}}
+{"name":"HalfMove","status":true,"description":"半歩移動プラグイン","parameters":{"8方向移動":"true","8方向移動スイッチ":"0","イベントすり抜け":"true","強制中無効":"false","角回避":"true","斜め移動中減速":"false","トリガー拡大":"false","実歩数調整":"false","上半分移動不可地形":"0","上半分移動不可Region":"0","下半分移動不可地形":"0","下半分移動不可Region":"0","右半分移動不可地形":"0","右半分移動不可Region":"0","左半分移動不可地形":"0","左半分移動不可Region":"0","全方向移動不可地形":"0","全方向移動不可Region":"0","イベント複数起動防止":"false","イベント位置重複OK":"false"}},
+{"name":"HorzMenuadv","status":true,"description":"ver1.03 ホリゾンタルなメニューコマンド構成","parameters":{"back":"","loadtext":"ロード","opacity":"255","xposi":"0","yposi":"-1"}}
 ];
